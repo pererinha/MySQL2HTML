@@ -1,0 +1,7 @@
+I build a simple Python script that reads a database (MySQL) and exports all of its tables structure to a HTML file. 
+
+All you need to do is configure the database access and run the script.
+
+I know that are a lot of tools to do it. But as a curious geek that I am I decided to built it my self.
+
+It is very helpful, at least it were helpful to me. :)
